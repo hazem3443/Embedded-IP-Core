@@ -1,0 +1,6 @@
+[book]
+authors = ["Hazem Khaled"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Embedded IP"
