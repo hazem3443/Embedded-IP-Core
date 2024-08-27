@@ -3,4 +3,4 @@ authors = ["Hazem Khaled"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Embedded IP"
+title = "Embedded IP Core"
